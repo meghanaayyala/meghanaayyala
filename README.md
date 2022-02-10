@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Meghana Ayyala Somayajula
 
- [![Linkedin Badge](https://img.shields.io/badge/-Meghana_Ayyala_Somayajula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meghana-ayyala-somayajula///)](https://www.linkedin.com/in/meghanaayyala/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Meghana_Ayyala_Somayajula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meghana-ayyala-somayajula///)](https://www.linkedin.com/in/meghana-ayyala-somayajula/) 
  [![Gmail Badge](https://img.shields.io/badge/-meghanaayyalasomayajula@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:meghanaayyalasomayajula@gmail.com) 
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
